@@ -1,0 +1,193 @@
+
+body {
+    display: block;
+    font-family: 'Baloo Bhaina 2', cursive;
+    margin: 0px;
+    background-color: black;
+}
+
+h1 {
+    line-height: 2;
+    margin-top: 20px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 3rem;
+    text-shadow: 0 0 5px cornsilk;
+    
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+
+.top-container {
+    background-image: linear-gradient( rgb(44, 87, 99), lightblue);
+    text-align: center;
+    position: relative;
+    padding-top: 50px;
+    border-bottom: solid black;
+}
+
+
+.profile {
+    background-image: linear-gradient( lightblue, rgb(44, 87, 99), rgb(26, 46, 58), black);
+    padding-bottom: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    font-size: 20px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+.top-p {
+    color: cornsilk;
+    line-height: 2;
+    margin: 50px 300px;
+    font-size: 1.5rem;
+}
+
+.skills {
+    background-image: url(https://www.webfx.com/blog/images/assets/images.sixrevisions.com/2009/08/04-05_russel_industrial_center.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+    text-shadow: 2px 2px 3px black, 0 0 35px rgb(250, 244, 244), 0 0 15px rgb(247, 17, 208);
+    position: relative;
+    padding: 20px;
+    
+}
+
+.art {
+    font-size: 2rem; 
+    line-height: 1; 
+    width: 400px;
+    margin: -50px 50px 100px 900px;  
+}
+
+
+.Communication {
+    font-size: 2rem;
+    line-height: 1;
+    width: 600px;
+    margin: -400px 900px 100px 30px;
+
+}
+
+.managment {
+    font-size: 2rem;
+    line-height: 1;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 100px; 
+}
+
+
+
+
+.bottom-container {
+    text-align: center;
+    background-color: #698474;
+    font-size: 20px;
+    position: relative;
+
+}
+
+.get-in-touch {
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+}
+
+.contact-me {
+    background-color: #bac7a7;
+    background-image: linear-gradient(black,rgb(44, 87, 99), lightblue);
+    position: relative;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.spaceship {
+    height: 25px;
+    position: absolute;
+    top: 170px;
+    right: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 180px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.hello {
+    font-family: 'Yesteryear', cursive;
+    font-size: 4.5rem; 
+}
+
+.right-smiling-flower {
+    height: 60px;
+    position: absolute;
+    right: 130px;
+    bottom: 10px;
+    z-index: 3;
+}
+
+.left-smiling-flower {
+    height: 60px;
+    position: absolute;
+    left: 130px;
+    bottom: 10px;
+    z-index: 3;
+}
+
+.left-pink-flower {
+    height: 100px;
+    position: absolute;
+    left: 220px;
+    bottom: 10px;
+    z-index: 2;
+    
+}
+
+.right-pink-flower {
+    height: 100px;
+    position: absolute;  
+    right: 220px;
+    bottom: 10px;
+    z-index: 2;
+}
+.left-sunflower {
+    height:170px;
+    position: absolute;
+    left: 120px;
+    bottom: 10px;
+    z-index: 1;
+}
+.right-sunflower{
+    height: 170px;
+    position: absolute;
+    right: 120px;
+    bottom: 10px;
+    z-index: 1;
+
+}
+.contact-link {
+    font-size: 20px;
+}
+ .contact-link:hover {
+     color: rgb(44, 87, 99) ;
+ }
+ 
